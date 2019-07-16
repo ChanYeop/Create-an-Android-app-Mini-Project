@@ -52,18 +52,37 @@
 
 # 결과 화면
  * 첫번째 탭의 목록 화면이다.
+ 
  ![목록 보여줌](https://user-images.githubusercontent.com/46989868/61268985-30804d00-a7d8-11e9-803c-4a0ddeedcbd7.jpg)
+ 
+ 
  * 두번째 탭의 추가했던 위치 정보를 보여주는 곳이다.
+ 
  ![각 정보 등록한 위치](https://user-images.githubusercontent.com/46989868/61269040-54dc2980-a7d8-11e9-9eac-294ef24c43cb.jpg)
+ 
+ 
  * 세번째 탭의 추가했던 사진만 보여주는 곳이다.
+ 
  ![등록한 사진 어플로 보기](https://user-images.githubusercontent.com/46989868/61269068-71786180-a7d8-11e9-9179-29f990920d15.jpg)
+ 
+ 
  * 첫번째 탭의 밑에 플러스 모양을 눌렀을 때 나오는 추가 화면이다.
+ 
  ![사진과 정보 추가](https://user-images.githubusercontent.com/46989868/61269105-8a811280-a7d8-11e9-9849-ee630d513eb4.jpg)
+ 
+ 
  * 목록에서 컨텐츠를 눌렀을 때 보이는 세부정보 화면이다.
+ 
  ![등록한 것에 대한 세부정보 보기](https://user-images.githubusercontent.com/46989868/61269139-9ff63c80-a7d8-11e9-91d7-eb9063f805c3.jpg)
+ 
+ 
  * share 버튼을 눌렀을 때 카톡 공유되는 화면이다.
+ 
  ![share을 눌렀을 시 카톡 공유](https://user-images.githubusercontent.com/46989868/61269163-af758580-a7d8-11e9-99a6-2f7fe259b058.png)
+ 
+ 
  * 위치보기를 눌렀을 때 등록한 위치가 지도에 보이게 된다.
+ 
  ![위치보기를 눌럿을 때 처음한 등록한 위치 뜨기](https://user-images.githubusercontent.com/46989868/61269199-c3b98280-a7d8-11e9-813c-654e486b8ec3.jpg)
     
     
